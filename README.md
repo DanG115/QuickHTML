@@ -51,7 +51,8 @@ Your project will have the following folder structure after using the extension:
   - `js/`
     - `index.js`
   - `images/`
-    - `tab-icon.png`
+  - `tab-icon/`
+     - `tab-icon.png`
 
 ## Contributing
 
