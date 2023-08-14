@@ -47,7 +47,7 @@ Your project will have the following folder structure after using the extension:
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on [GitHub](https://github.com/your-username/web-design-extension).
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on [GitHub](https://github.com/DanG4115/web-design-extension).
 
 ## License
 
@@ -55,7 +55,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, you can reach out to me at your@email.com.
+If you have any questions or feedback, you can reach out to me at dangleeson@gmail.com.
 
 ---
-[GitHub Repository](https://github.com/your-username/web-design-extension)
+[GitHub Repository](https://github.com/DanG4115/web-design-extension)
