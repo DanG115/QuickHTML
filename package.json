@@ -1,0 +1,29 @@
+{
+  "name": "web-design-extension", 
+  "version": "0.5.0",
+  "main": "extension.js",
+  "publisher": "Dan",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "activationEvents": [
+    "onCommand:WebDesign.create",
+    "onCommand:WebDesign.remove"
+  ],
+  "contributes": {
+    "commands": [
+      {
+        "command": "WebDesign.create",
+        "title": "Create FrontEnd Template"
+      },
+      {
+        "command": "WebDesign.remove",
+        "title": "Remove FrontEnd Template"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanG4115/vsccode"
+  }
+}
