@@ -55,7 +55,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, you can reach out to me at dangleeson@gmail.com.
+If you have any questions or feedback, you can reach out to me at dangleeson13@gmail.com.
 
 ---
 [GitHub Repository](https://github.com/DanG4115/web-design-extension)
