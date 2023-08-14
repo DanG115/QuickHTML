@@ -2,7 +2,7 @@
 
 A Visual Studio Code extension for streamlining web design workflows.
 
-![Web Design Extension](https://github.com/your-username/web-design-extension/raw/main/images/screenshot.png)
+![Web Design Extension]([https://github.com/your-username/web-design-extension/raw/main/images/screenshot.png](https://dan-gleeson.co.uk/githubimg/HTML,%20CSS,%20JS.png))
 
 ## Table of Contents
 
