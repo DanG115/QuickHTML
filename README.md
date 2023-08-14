@@ -43,6 +43,15 @@ The Web Design Extension is a powerful tool designed to enhance the web design e
 ## Folder Structure
 
 Your project will have the following folder structure after using the extension:
+your-project-folder/
+│
+├── index.html
+├── css/
+│ └── index.css
+├── js/
+│ └── index.js
+└── images/
+└── tab-icon.png
 
 
 ## Contributing
