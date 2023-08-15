@@ -28,7 +28,7 @@ A Visual Studio Code extension for streamlining web design workflows.
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-- [Update Log](./CHANGELOG.md)
+- [Change Log](./CHANGELOG.md)
 
 
 ## Description
