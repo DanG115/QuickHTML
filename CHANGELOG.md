@@ -16,12 +16,12 @@ All notable changes to this project will be documented in this file.
 - Folder Names
 
 ### Fixed
-- Added image folder
+- Missing out the image folder
 
-## [1.0.0] - 2023-06-10
+## [1.0.0] - 13-08-2023
 
 ### Added
 - Initial version of the project.
-- Core functionality including user authentication and profile creation.
+- Core functionality 
 
 
