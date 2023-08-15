@@ -4,8 +4,9 @@ A Visual Studio Code extension for streamlining web design workflows.
 
 <div align="center">
 	<p>
-		<a href="https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode">
-			<img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/icrawl.discord-vscode?label=Visual%20Studio%20Marketplace">
+		<a href="https://marketplace.visualstudio.com/items?itemName=DanielG.web-design-extension">
+			<img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/DanielG.web-design-extension
+">
 		</a>
 		<a href="https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode">
 			<img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/icrawl.discord-vscode">
