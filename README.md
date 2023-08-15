@@ -50,7 +50,7 @@ The Web Design Extension is a powerful tool designed to enhance the web design e
 
 1. Open Visual Studio Code.
 2. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS) to open the command palette.
-3. Type "Web Design: Create Default Workspace" and select the command.
+3. Type "WebDesign: Create Template" and select the command.
 4. The extension will create the default workspace structure with files and folders.
 5. Customize the generated files and start building your web project!
 
