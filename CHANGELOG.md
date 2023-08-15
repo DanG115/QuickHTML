@@ -10,7 +10,8 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 - Creation Bug
 
-## [1.0.1] - 14-08-2023
+## [1.0.0] - 14-08-2023
+- Added to VSC Extensions (App + Website)
 
 ### Changed
 - Folder Names
