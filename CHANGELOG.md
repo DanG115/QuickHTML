@@ -2,21 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.1.0] - 2023-08-15
+## [1.1.0] - 15-08-2023
 
 ### Added
 - Updated project logo.
 
 ### Fixed
-- Corrected minor formatting issues in the user profile page.
+- Creation Bug
 
-## [1.0.1] - 2023-07-20
+## [1.0.1] - 14-08-2023
 
 ### Changed
-- Tweaked the color scheme for better readability.
+- Folder Names
 
 ### Fixed
-- Resolved an issue causing the app to crash when navigating to the settings page.
+- Added image folder
 
 ## [1.0.0] - 2023-06-10
 
